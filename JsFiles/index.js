@@ -21,7 +21,7 @@ const data =
     },
 
     {
-        profileImage: "../src/icons/profilePic.png",
+        profileImage: "./src/icons/profilePic.png",
         name: "Aya Dhabre",
         age: 24,
         phone: "050-141-2587",
