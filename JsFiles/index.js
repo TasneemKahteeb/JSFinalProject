@@ -1,7 +1,7 @@
 const data = 
 [
     {
-        profileImage: "../src/icons/profilePic.png",
+        profileImage: "./src/icons/profilePic.png",
         name: "Tasneem Khateeb",
         age: 20,
         phone: "050-123-4678",
@@ -11,7 +11,7 @@ const data =
     },
 
     {
-        profileImage: "../src/icons/profilePic.png",
+        profileImage: "./src/icons/profilePic.png",
         name: "Hossen Yassen",
         age: 24,
         phone: "050-141-2587",
